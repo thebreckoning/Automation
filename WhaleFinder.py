@@ -1,4 +1,3 @@
-#!C:\Users\bucky\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.11\Python 3.11 (64-bit).lnk
 
 import os
 import csv
